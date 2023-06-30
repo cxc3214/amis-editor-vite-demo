@@ -6,3 +6,7 @@ amis-editor-vite-demo
 1. npm i  or  yarn 
 
 2. npm run dev  or  yran start
+
+# 效果
+
+![main](./__doc/main.png)
